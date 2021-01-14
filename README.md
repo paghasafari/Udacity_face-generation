@@ -9,6 +9,6 @@
 
 # Directory Structure
 
-* The jupyter notebook file "dlnd_face_generation.ipynb" contain the main code.
+* The jupyter notebook file "dlnd_face_generation.ipynb" contains the main code.
 * The "problem_unittests.py " is used for testing the required criteria for creating discriminator and generator.
 
