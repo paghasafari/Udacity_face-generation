@@ -1,5 +1,7 @@
 # Face-generation
 
+![Alt text](https://github.com/paghasafari/Udacity_face-generation/blob/master/untitled.png)
+
 # Introduction
 
 * This network generates new faces using Generative Adversarial Networks (GANs).
